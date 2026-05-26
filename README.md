@@ -3,7 +3,7 @@ Fullstack project for the summer.
 
 
 
-###Tentative Additions:
+### Tentative Additions:
 - React frontend
 - FastAPI backend
 - Main languages: Python, C/C++, HTML, CSS, JavaScript 
