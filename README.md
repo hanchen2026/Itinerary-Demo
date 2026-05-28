@@ -1,4 +1,4 @@
-# Fullstack_Project
+# !!DEMO ONLY!! Fullstack_Project
 Fullstack project for the summer.
 
 
